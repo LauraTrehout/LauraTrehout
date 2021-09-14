@@ -37,4 +37,4 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 <img align="left" alt="postman" src="https://img.shields.io/badge/-Postman-#FF6C37?logo=postman&logoColor=black" />
  -->
 
-
+<img align="left" alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black" />
