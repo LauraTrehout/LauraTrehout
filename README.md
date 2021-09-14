@@ -7,7 +7,7 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 ## Connect
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laura-trehout)
 
-## Skills
+<!-- ## Skills
 
 [<img align="left" alt="html5" src="https://img.shields.io/badge/-HTML5-#E34F26?logo=html5&logoColor=black" />]
 
@@ -31,7 +31,7 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 
 [<img align="left" alt="vsc" src="https://img.shields.io/badge/-VSCode-#007ACC?logo=visual-studio-code&logoColor=white" />]
 
-[<img align="left" alt="postman" src="https://img.shields.io/badge/-Postman-#FF6C37?logo=postman&logoColor=black" />]
+[<img align="left" alt="postman" src="https://img.shields.io/badge/-Postman-#FF6C37?logo=postman&logoColor=black" />] -->
 
 
 
