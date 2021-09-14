@@ -7,6 +7,8 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 ## Connect
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laura-trehout)
 
+[<img align="left" alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?&logo=codewars&logoColor=black" />](https://www.codewars.com/users/LauraTrehout)
+
 <br/>
 <br/>
 
