@@ -12,7 +12,7 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 
 ## Skills
 
-<img align="left" alt="html5" src="https://img.shields.io/badge/-HTML5-#E34F26?logo=html5&logoColor=black" />
+<!-- <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML5-#E34F26?logo=html5&logoColor=black" />
 
 <img align="left" alt="css3" src="https://img.shields.io/badge/-CSS3-#1572B6?logo=css3&logoColor=white" />
 
@@ -35,5 +35,5 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 <img align="left" alt="vsc" src="https://img.shields.io/badge/-VSCode-#007ACC?logo=visual-studio-code&logoColor=white" />
 
 <img align="left" alt="postman" src="https://img.shields.io/badge/-Postman-#FF6C37?logo=postman&logoColor=black" />
-
+ -->
 
