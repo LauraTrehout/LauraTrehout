@@ -20,7 +20,7 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 
 <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic" />
 
-<img align="left" alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=plastic" />
+<img align="left" alt="js" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
 
 <img align="left" alt="react" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=plastic" />
 
