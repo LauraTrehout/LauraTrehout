@@ -24,7 +24,7 @@ Plusieurs projets réalisés au cours de la formation, en Javascript (React/Expr
 
 <img align="left" alt="reactrouter" src="https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=black" />
 
-<img align="left" alt="node" src="https://img.shields.io/badge/Node-339933?logo=node-dot-js&logoColor=white" />
+<img align="left" alt="node" src="https://img.shields.io/badge/Node-339933?logo=node&logoColor=white" />
 
 <img align="left" alt="express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
 
